@@ -96,7 +96,7 @@ GIT
 
 GIT
   remote: https://github.com/stevepolitodesign/rspec-rails.git
-  revision: 0d1b2a46357135a59d7a2be901a5af63c623279c
+  revision: 6f49c116d769222a6a8fe9112d3357154f29ebf6
   branch: update-default-driver
   specs:
     rspec-rails (6.2.0.pre)
